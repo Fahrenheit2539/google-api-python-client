@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.3.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.2.0...v2.3.0) (2021-04-27)
+
+
+### Features
+
+* **osconfig:** update the api ([afea316](https://www.github.com/googleapis/google-api-python-client/commit/afea316d32842ecb9e7d626842d5926b0bf3e34f))
+* **sqladmin:** update the api ([cec4393](https://www.github.com/googleapis/google-api-python-client/commit/cec4393b8e37e229f68b2233a2041db062c2a335))
+
 ## [2.2.0](https://www.github.com/googleapis/google-api-python-client/compare/v2.1.0...v2.2.0) (2021-04-13)
 
 
